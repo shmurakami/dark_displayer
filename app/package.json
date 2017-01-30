@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "electron": "^1.4.15",
     "glob": "^7.0.0"
   }
 }
